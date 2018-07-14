@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wizard-tower", "Assembly-CSharp.csproj", "{0B2F30FF-E036-714D-C0FE-522E1D619C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wizard-tower", "Assembly-CSharp-Editor.csproj", "{F5786F07-579D-8D6F-78E5-E2D8940DC647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2F30FF-E036-714D-C0FE-522E1D619C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2F30FF-E036-714D-C0FE-522E1D619C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2F30FF-E036-714D-C0FE-522E1D619C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2F30FF-E036-714D-C0FE-522E1D619C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5786F07-579D-8D6F-78E5-E2D8940DC647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5786F07-579D-8D6F-78E5-E2D8940DC647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5786F07-579D-8D6F-78E5-E2D8940DC647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5786F07-579D-8D6F-78E5-E2D8940DC647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
