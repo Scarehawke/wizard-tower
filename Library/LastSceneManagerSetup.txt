@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Crafting.unity
+=======
+- path: Assets/Scenes/Lighting.unity
+>>>>>>> de72e7ce9d1ae8902219f52572e21268950d5802
   isLoaded: 1
   isActive: 1
